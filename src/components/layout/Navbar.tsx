@@ -20,7 +20,7 @@ const Navbar = () => {
     },
     {
       label: 'Features',
-      submenu: ['Trading Tools', 'API Access', 'Security']
+      submenu: ['Trading Tools', 'Security']
     },
     'Pricing',
     'About',
