@@ -50,10 +50,12 @@ const Features = () => {
 
       
         {/* Heading */}
-        <div className="text-center mb-12">
-          <h2 className="text-4xl font-bold mb-4">Our modern features</h2>
-          <p className="text-gray-300 text-lg">
-            Using technology to make finance simpler, smarter and more rewarding.
+        <div className="text-center mb-16">
+          <h2 className="text-4xl font-bold text-white mb-6">
+            Professional Trading for Everyone
+          </h2>
+          <p className="text-xl text-gray-400 max-w-2xl mx-auto">
+            Experience the power of institutional-grade trading technology combined with an intuitive user interface.
           </p>
         </div>
 
