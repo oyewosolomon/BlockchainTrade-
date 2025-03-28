@@ -70,7 +70,7 @@ const ContactSection: React.FC = () => {
 
         <div className="grid md:grid-cols-2 gap-12 items-start">
           {/* Contact Form */}
-          <div className="bg-white rounded-xl shadow-xl p-8">
+          <div className="bg-white rounded-xl p-8">
             {submitted ? (
               <div className="text-center py-12">
                 <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-6" />
@@ -222,29 +222,15 @@ const ContactSection: React.FC = () => {
 
           {/* Contact Information */}
           <div className="space-y-8">
-            <div className="bg-white rounded-xl p-8 shadow-lg">
-              <h3 className="text-2xl font-bold mb-6">Get in Touch</h3>
-              <div className="space-y-6">
-                <div className="flex items-start space-x-4">
-                  <Phone className="w-6 h-6 text-blue-600" />
-                  <div>
-                    <h4 className="font-semibold">Phone Support</h4>
-                    <p className="text-gray-600">+1 (800) 123-4567</p>
-                    <p className="text-sm text-gray-500">Mon-Fri, 9AM-6PM EST</p>
-                  </div>
-                </div>
-                <div className="flex items-start space-x-4">
-                  <Mail className="w-6 h-6 text-blue-600" />
-                  <div>
-                    <h4 className="font-semibold">Email</h4>
-                    <p className="text-gray-600">sales@biodatasystems.com</p>
-                    <p className="text-sm text-gray-500">24/7 response time</p>
-                  </div>
-                </div>
-              </div>
+            <div className="bg-white rounded-xl  ">
+      
+              
+                
+                <img src="/images/c.jpg" alt="" />
+              
             </div>
 
-            <div className="bg-white rounded-xl p-8 shadow-lg">
+            <div className="bg-white rounded-xl px-8 py-2 ">
               <h3 className="text-2xl font-bold mb-6">What to Expect</h3>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">

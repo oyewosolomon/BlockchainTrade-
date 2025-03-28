@@ -65,7 +65,6 @@ export default function Home() {
       <SecuritySection/>
       <PricingSection/>
       <GettingStartedGuide/>
-      <Testimonials/>
     
       <Contact/>
       <Footer/>

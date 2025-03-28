@@ -70,20 +70,8 @@ const Footer = () => {
               </div>
             </div>
             <div className="space-y-3">
-              <div className="flex items-center text-gray-400">
-                <Mail className="w-5 h-5 mr-3" />
-                <a href="mailto:support@blockchaintrade.com" className="hover:text-white transition-colors">
-                  support@blockchaintrade.com
-                </a>
-              </div>
-              <div className="flex items-center text-gray-400">
-                <Phone className="w-5 h-5 mr-3" />
-                <span>+1 (888) 123-4567</span>
-              </div>
-              <div className="flex items-center text-gray-400">
-                <Globe className="w-5 h-5 mr-3" />
-                <span>24/7 Global Support</span>
-              </div>
+             
+            
             </div>
           </div>
 
