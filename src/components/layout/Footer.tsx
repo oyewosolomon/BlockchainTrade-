@@ -20,7 +20,6 @@ const Footer = () => {
       'Margin Trading',
       'Futures',
       'Trading Bots',
-      'API Access',
       'Mobile App'
     ],
     company: [
@@ -35,7 +34,6 @@ const Footer = () => {
       'Help Center',
       'Trading Guides',
       'FAQ',
-      'API Documentation',
       'Fee Schedule',
       'Status'
     ],
