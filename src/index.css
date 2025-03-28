@@ -57,12 +57,13 @@
   }
    /* Apply Rubik to all text */
    body {
-    font-family: var(--font-rubik), var(--font-sans);
+    font-family: var(--font-sans),var(--font-rubik);
     @apply font-normal;
   }
 
   /* Heading weights */
   h1, h2, h3 {
+    font-family: var(--font-rubik);
     @apply font-semibold; /* 600 weight */
     letter-spacing: -0.015em;
   }
